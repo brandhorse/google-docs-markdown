@@ -1,4 +1,4 @@
-# Google Docs Markdown 
+# Markdown to Google docs Formatting
 
 ## Author
 - Name: Jeff Barnaby - jeffbarnaby.co | Brandhorse | Stroelli LLC.
